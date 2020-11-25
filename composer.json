@@ -2,6 +2,7 @@
     "name": "hokny/laravel-generator",
     "type": "library",
     "description": "InfyOm Laravel Generator",
+    "minimum-stability": "stable",
     "keywords": [
         "laravel",
         "api",
